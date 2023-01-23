@@ -1,1 +1,2 @@
-# JD
+# Sample Project
+Auto Deployment
