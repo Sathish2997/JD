@@ -1,3 +1,2 @@
 # Sample Project
-Auto Deployment
-Sample project
+Auto Deployment.
